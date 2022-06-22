@@ -38,6 +38,9 @@
 .App {
   background-color: #282c34;
 }
+.card {
+  align-items: center;
+}
 #card {
   background: inherit;
   border: none;
